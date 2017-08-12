@@ -1,4 +1,4 @@
-Porter-Algorithm-Spanish
+Porter Algorithm for Spanish
 ========================
 
 Spanish Porter Algorithm in Java.
